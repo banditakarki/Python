@@ -1,1 +1,1 @@
-This repo consists of some game that I have created in Python.
+This repo consists of some games that I have created in Python.
